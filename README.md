@@ -1,2 +1,2 @@
 # kampus-merdeka-test1
-penjelasan tentang repository
+devina gunawan - penjelasan tentang repository
